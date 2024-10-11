@@ -37,6 +37,6 @@ This is a feature-rich crypto trading website that provides real-time trading da
 
 ## **Contact**
 For questions or support, contact me via:
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/umer-shabbeer)
+- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/umer-shabbeer)
 - **Email**: shabbeerumer@gmail.com
 
